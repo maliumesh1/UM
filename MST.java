@@ -48,3 +48,13 @@ public class PrimMST {
         }
     }
 }
+
+
+/*
+Edges of Minimum Spanning Tree:
+Edge 0 - 0
+Edge 1 - 2
+Edge 2 - 3
+Edge 4 - 5
+Edge 3 - 6 
+    */
