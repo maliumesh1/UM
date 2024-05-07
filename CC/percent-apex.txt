@@ -1,0 +1,4 @@
+Decimal amount=42;
+Decimal total=80;
+Decimal result=(amount/total)*100;
+System.debug('Percentage is: '+result+' %');

@@ -1,0 +1,7 @@
+Integer num = 12345;
+        Decimal decimalValue = Decimal.valueOf(num);
+      System.debug('Decimal representation of ' + num + ' is: ' + decimalValue.format());
+
+		 Decimal DNum =12.78;
+		 Integer INum =Integer.valueOf(DNum);
+		  System.debug('Integer representation of '+ DNUM + ' is: ' +INUM );
